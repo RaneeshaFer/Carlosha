@@ -6,5 +6,4 @@ const router = express.Router();
 // Routes
 router.post("/", createContact);
 
-
 export default router;
